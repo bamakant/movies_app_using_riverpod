@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:movies_app/common/movie_poster.dart';
-import 'package:movies_app/common/star_icons.dart';
+import 'package:movies_app/common/ratings_widget.dart';
 import 'package:movies_app/model/movie_response.dart';
 
 class MovieListTile extends StatelessWidget {
